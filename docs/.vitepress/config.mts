@@ -56,7 +56,7 @@ export default withMermaid({
             ],
         },
         socialLinks: [
-            {icon: 'github', link: 'https://denherrring.github.io/arc42-vitepress/'}
+            {icon: 'github', link: 'https://github.com/DenHerrRing/arc42-vitepress'},
         ]
     }
 })
