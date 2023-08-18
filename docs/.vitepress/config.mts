@@ -4,6 +4,7 @@ import {withMermaid} from "vitepress-plugin-mermaid";
 export default withMermaid({
     title: "arc42 vitepress",
     description: "An arc42 Template with introductions",
+    base: "/arc42-vitepress/",
     mermaid: {
         // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
     },
