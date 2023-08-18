@@ -36,7 +36,7 @@ export default withMermaid({
                 {text: '11 Technical Risks', link: '/arc42/english/11_technical_risks'},
                 {text: '12 Glossary', link: '/arc42/english/12_glossary'},
                 {text: 'About ard42', link: '/arc42/english/about-arc42'},
-                {text: 'Arc42 Template', link: '/arc42/english/arc42-arc42'}
+                {text: 'Arc42 Template', link: '/arc42/english/arc42-template'}
             ],
             "/arc42/german/": [
                 {text: '01 Einführung und Ziele', link: '/arc42/german/01_introduction_and_goals'},
@@ -52,7 +52,7 @@ export default withMermaid({
                 {text: '11 Risiken und technische Schulden', link: '/arc42/german/11_technical_risks'},
                 {text: '12 Glossar', link: '/arc42/german/12_glossary'},
                 {text: 'Über arc42', link: '/arc42/german/about-arc42'},
-                {text: 'Arc42 Template', link: '/arc42/german/arc42-arc42'}
+                {text: 'Arc42 Template', link: '/arc42/german/arc42-template'}
             ],
         },
         socialLinks: [
